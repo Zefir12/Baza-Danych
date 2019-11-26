@@ -1,0 +1,2 @@
+from Bazadanych import *
+main()
