@@ -1,0 +1,5 @@
+W programie nale¿y przemieszczaæ siê wpisuj¹c cyfry z zakresu podanych opcji, lub rzadziej - nazwy.
+
+W opcji 8, czyli module sortuj¹cym, podczas podawania roku, dnia b¹dŸ miesi¹ca mo¿na wpisaæ 0 - program interpretuje to jako dwolny miesi¹c/dzieñ/rok
+
+Wybranie opcji 5 b¹dŸ 7 wymaga ponownego uruchomienia programu. Krok ten jest niezbêdny przez problemy które sam stworzy³em i jeszcze nie wiem jak je rozwi¹zaæ.
